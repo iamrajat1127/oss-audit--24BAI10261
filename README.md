@@ -1,7 +1,7 @@
 # The Open Source Audit: Python
 
-**Student Name:** Manan Pandey<br>
-**Registration Number:** 24BAI10033 <br>
+**Student Name:** Rajat Jain<br>
+**Registration Number:** 24BAI10261 <br>
 **Project Focus:** Python (FOSS Audit)
 
 ## Project Overview
@@ -22,9 +22,9 @@ This repository contains a suite of 5 Bash shell scripts designed for a universi
 
 **Goal:** Disk and Permission Auditor. Loops through critical system and Python-specific directories (such as library paths, site-packages, or virtual environments), reporting their size, ownership, and file permissions.
 
-### 4. 04 log_analyzer.sh
+### 4. 04 log_analyser.sh
 
-**Goal:** Log File Analyzer. Analyzes Python application log files or related system logs by searching for specified keywords (like ERROR, Traceback, or Warning), counting occurrences, and displaying the last 5 matching entries.
+**Goal:** Log File Analyser. Analyzes Python application log files or related system logs by searching for specified keywords (like ERROR, Traceback, or Warning), counting occurrences, and displaying the last 5 matching entries.
 
 ### 5. 05 manifesto.sh
 
